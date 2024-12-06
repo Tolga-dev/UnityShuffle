@@ -149,7 +149,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.32068968, g: 0.25, b: 0.5, a: 0}
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -251,12 +251,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   numbers: 0100000002000000030000000400000005000000
   names:
-  - John
-  - Mathew
-  - Sara
-  - Kin
-  - Alexander
-  - Philips
+  - A
+  - B
+  - C
+  - D
+  - E
+  - F
   shuffleTimes: 0
 --- !u!1 &763080864
 GameObject:
